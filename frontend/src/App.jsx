@@ -3,7 +3,7 @@ import AboutSection from "./components/AboutSection"
 import BrandPartners from "./components/BrandParterners"
 import ClientReviews from "./components/ClientReviws"
 import Footer from "./components/Footer"
-import Navbar from "./components/navbar"
+import Navbar from "./components/Navbar";
 import HeroSlider from "./components/Slider"
 import StatsSection from "./components/StatsSections"
 import WhatsAppButton from "./components/WhatsappButton"
