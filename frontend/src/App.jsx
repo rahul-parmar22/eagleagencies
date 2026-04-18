@@ -6,7 +6,7 @@ import Footer from "./components/Footer"
 import Navbar from "./components/Navbar";
 import HeroSlider from "./components/Slider"
 import StatsSection from "./components/StatsSections"
-import WhatsAppButton from "./components/WhatsappButton"
+import WhatsAppButton from "./components/WhatsAppButton"
 import WhyChooseUs from "./components/WhyChooseUs"
 import ProductsPage from "./pages/Products"
 import ContactPage from "./pages/Contact"
