@@ -44,12 +44,8 @@ export default function HeroSlider() {
         
         <h1 className="text-white text-3xl md:text-5xl font-bold mb-4">
         
-       this is pro:: "Build Better with the Right Tools"
-         Powering Your Projects with Quality Tools
-         Build Better with the Right Tools
-         Your Partner in Every Build
-         Tools That Work as Hard as You
-         Upgrade Your Work with Pro Tools
+       "Build Better with the Right Tools"
+     
         </h1>
 
         <p className="text-gray-200 mb-6 text-sm md:text-lg">
