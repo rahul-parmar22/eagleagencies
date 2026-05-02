@@ -1,2 +1,2 @@
-[Live Wrbsite Here](https://eagleagencies.netlify.app)
+[Live Website Here](https://eagleagencies.netlify.app)
 
